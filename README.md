@@ -3,6 +3,7 @@
 Канали автора: [QA Mania YouTube](https://www.youtube.com/@QAMania), [QA Mania Telegram](https://t.me/qamania), [QA Mania Site](https://qamania.org)
 
 ✅ Документ з вимогами для аналізу: [*Bad requirements to review*](https://docs.google.com/document/d/1J6OtzjdhyU9EuAStlal5Fz8lDR8XDi7GQZVUxHPcmh8/)
+
 ✅ Чек ліст: [*Requirements checklist for QA*](https://docs.google.com/document/d/1ckQPnqH069XNEmLHkHqXZ_jB_Nj6gOKslbSjhHwy3Z0/)
 
 Чек ліст можна використовувати з будь-якими вимогами!
