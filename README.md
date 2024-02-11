@@ -15,6 +15,6 @@
 ---
 
 ### Результати:
-⏳ [Пройдений чекліст]()
-⏳ [Оновлений документ з вимогами]()
-✅ [Список питань до Бізнес Аналітика](https://github.com/anhelina-lunova/Requirements-Analysis/blob/main/%D0%93%D1%80%D0%B0%20%D0%A2%D0%B0%D0%BC%D0%B0%D0%B3%D0%BE%D1%87%D1%96.pdf)
+- ⏳ [Пройдений чекліст]()
+- ⏳ [Оновлений документ з вимогами]()
+- ✅ [Список питань до Бізнес Аналітика](https://github.com/anhelina-lunova/Requirements-Analysis/blob/main/%D0%93%D1%80%D0%B0%20%D0%A2%D0%B0%D0%BC%D0%B0%D0%B3%D0%BE%D1%87%D1%96.pdf)
