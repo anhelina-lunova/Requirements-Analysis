@@ -6,7 +6,7 @@
 
 ✅ Чек ліст: [*Requirements checklist for QA*](https://docs.google.com/document/d/1ckQPnqH069XNEmLHkHqXZ_jB_Nj6gOKslbSjhHwy3Z0/)
 
->> Чек ліст можна використовувати з будь-якими вимогами!
+> Чек ліст можна використовувати з будь-якими вимогами!
 
 ### Домашнє завдання:
 1. Пройти чекліст
